@@ -17,6 +17,8 @@ Cet outil permet de répondre rapidement à des questions clés :
 - Quel est l’écart entre les deux ?
 - Quelle est la répartition du CA entre les produits ?
 
+![Comparatif](output/Comparaison_rapport.jpg)
+
 ---
 
 ⚙️ Fonctionnalités
@@ -29,8 +31,12 @@ Cet outil permet de répondre rapidement à des questions clés :
 - 📝 Génération d’un rapport texte  
 - 📁 Export des résultats en CSV  
 - 📊 Visualisations :
-  - Camembert (répartition du CA)
-  - Bar chart premium (classement visuel)
+- Camembert (répartition du CA)
+- Bar chart premium (classement visuel)
+
+![Graphique](output/graphique.png)
+
+![Camembert](output/camembert_ca.png)
 
 ---
 
